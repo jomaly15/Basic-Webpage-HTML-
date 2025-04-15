@@ -1,8 +1,8 @@
 body{
   background-image: url(IMG_7266.jpeg);
-  background-repeat: no-repeat;
+  ackfround-size: cover;
   background-position: center;
   background-attachment: fixed;
-  backfround-size: cover;
+  background-repeat: no-repeat;
 
 }
