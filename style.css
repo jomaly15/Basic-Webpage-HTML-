@@ -1,7 +1,7 @@
 body{
   background-image: url(IMG_7266.jpeg);
   background-repeat: no-repeat;
-  background-position: fullscreen;
+  background-position: fit;
   background-attachment: fixed;
   backfround-size: cover;
 
