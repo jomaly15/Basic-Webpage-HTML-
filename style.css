@@ -12,7 +12,7 @@ body{
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  text-color: white;
+  color: white;
 }
 
 .NavContainer{
@@ -29,7 +29,6 @@ body{
 .topNav a{
   padding: 10px;
   text-decoration: none;
-  background-color: none;
   margin: 10px;
   border-radius: 50%; 
 }
