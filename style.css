@@ -12,7 +12,7 @@ body{
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  color: white;
+  text-color: white;
 }
 
 .NavContainer{
@@ -42,7 +42,7 @@ body{
 
 /*Hover Effects on Top Nav */
 .topNav a:hover{
-  background-color: #black;
+  color: #black;
   transition: 0.5s;
 }
 
