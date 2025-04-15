@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-head
 
 body{
   background-image: url(IMG_7266.jpeg);
@@ -12,6 +11,7 @@ body{
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  color: white;
 }
 
 .NavContainer{
@@ -34,18 +34,15 @@ body{
 
 .topNav a i{
   font-size: 2me;
-  color: white;
   opacity: 0.9;
 }
 
 /*Hover Effects on Top Nav */
 .topNav a:hover{
-  color: #black;
   transition: 0.5s;
 }
 
 .topNav a:hover i{
-  color: white;
   transition: 0.5s;
 }
 
@@ -59,7 +56,6 @@ body{
 }
 
 .navMid ul li a{
-  color: white;
   margin: 20px;
   text-decoration: none;
   font-size: 1.3em;
