@@ -13,7 +13,6 @@ body{
   background-repeat: no-repeat;
   color: white;
   justify-content: center;
-  align-items: center;
   -webkit-text-stroke: 3px: color: black;
   
 }
@@ -62,7 +61,7 @@ body{
 }
 
 .navMid ul li {
-  
+  display: none;
 }
 
 .navMid ul li a{
