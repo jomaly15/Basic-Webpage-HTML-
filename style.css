@@ -6,3 +6,11 @@ body{
   background-repeat: no-repeat;
 
 }
+
+.footerBottom p{
+text-align: center;
+  padding: 20px;
+}
+.footerBottom p{
+  color: white;
+}
