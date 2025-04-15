@@ -1,3 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+head
+
 body{
   background-image: url(IMG_7266.jpeg);
   background-size: cover;
@@ -5,7 +13,64 @@ body{
   background-attachment: fixed;
   background-repeat: no-repeat;
   color: white;
+}
 
+.NavContainer{
+  width: 100%;
+  padding: 70px 30px 20px;
+  
+}
+
+.topNav{
+  display: flex;
+  justify-content: right;
+}
+
+.topNav a{
+  padding: 10px;
+  text-decoration: none;
+  background-color: none;
+  margin: 10px;
+  border-radius: 50%; 
+}
+
+.topNav a i{
+  font-size: 2me;
+  color: white;
+  opacity: 0.9;
+}
+
+/*Hover Effects on Top Nav */
+.topNav a:hover{
+  background-color: #black;
+  transition: 0.5s;
+}
+
+.topNav a:hover i{
+  color: white;
+  transition: 0.5s;
+}
+
+.navMid{
+  margin: 30px 0;
+}
+
+.navMid ul{
+  display: flex;
+  justify-content: center;
+}
+
+.navMid ul li a{
+  color: white;
+  margin: 20px;
+  text-decoration: none;
+  font-size: 1.3em;
+  opacity: 0.7;
+  transition: 0.5s;
+}
+
+.navMid ul li a: hover{
+  opacity: 1;
 }
 
 
