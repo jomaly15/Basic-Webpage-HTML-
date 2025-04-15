@@ -21,7 +21,7 @@ body{
 }
 
 .topNav{
-  display: flex;
+  display: ;
   justify-content: right;
 }
 
@@ -53,7 +53,7 @@ body{
 }
 
 .navMid ul{
-  display: flex;
+  display: ;
   justify-content: center;
 }
 
