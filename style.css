@@ -61,7 +61,7 @@ body{
 }
 
 .navMid ul li {
-  display: none;
+  list-style: none;
 }
 
 .navMid ul li a{
